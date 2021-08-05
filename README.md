@@ -46,7 +46,7 @@ It is in the `nervos-scan` file:
 https://explorer.nervos.org/aggron/transaction/0xb1a24ff8217687cec513204a216a47752d0972ed7093131631e04ea0c668410a
 ```
 
-## Check Your Layer 2 Balance
+## Bonus: Check Your Layer 2 Balance
 
 I check it on the nervos explorer.
 
